@@ -1,0 +1,57 @@
+# 🔥 Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧠 Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# 📦 Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 📊 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧾 Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# 🐍 Python cache & coverage
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ⚙️ OS generated files
+.DS_Store
+Thumbs.db
+
+# 🧑‍💻 VS Code settings
+.vscode/
+
+# 🧰 Other IDEs
+.idea/
+
+# 🔐 Environment variables
+.env
+
+# 📁 Data files (optional, useful for ML projects)
+*.csv
+*.tsv
+*.json
+
+# 🖼️ Large files (optional)
+*.h5
+*.pt
+*.pth
+
+# 📦 Pip files
+pip-log.txt
+pip-delete-this-directory.txt
