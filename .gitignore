@@ -43,7 +43,6 @@ Thumbs.db
 .env
 
 # 📁 Data files (optional, useful for ML projects)
-*.csv
 *.tsv
 *.json
 
